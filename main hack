@@ -1,0 +1,21 @@
+Runner.instance_.gameOver = function(){};  -  noclip
+Runner.instance_.gameOver = true   -   clip
+Runner.instance_.setSpeed(10000)   -   speed fast
+Runner.instance_.setSpeed(100000000000000)    -   speed super fast
+Runner.instance_.setSpeed(1)   -   1 speed
+Runner.instance_.setSpeed(0.1)   -  slow speed
+Runner.instance_.tRex = false   -   crack game
+Runner.instance_.isRunning = false   -  crack game v2
+Runner.instance_.isRunning = true   -   uncraqck game
+Runner.instance_.tRex = function(){}   -   image only
+Runner.instance_.gameOver = false   -  dead=game over and invisible trex
+Runner.instance_.tRex.draw = false  -  no map and dino
+Runner.instance_.playSound = false   -  cant jump(after starting game only)
+Runner.instance_.update = false   -   freeze image(if u jump u can see 2 dinos)
+Runner.instance_.tRex.setJumpVelocity(10)  -  jump hack off
+Runner.instance_.tRex.setJumpVelocity(20)  -  jump hack
+Runner.instance_.tRex.setJumpVelocity(100)  -  jump hack ++
+Runner.instance_.tRex.setJumpVelocity(1000)  -  jump hack vip
+Runner.instance_.tRex.setJumpVelocity(100000000000)   -   sky jump
+Runner.instance_.tRex.setJumpVelocity(1)   -   low jump
+Runner.instance_.tRex.setJumpVelocity(0)   -   cant jump
